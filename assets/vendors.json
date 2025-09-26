@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Royal Wedding Decor",
+    "type": "Wedding",
+    "city": "Lahore",
+    "address": "123 Mall Road, Lahore",
+    "phone": "+92 300 1111111",
+    "rating": 5,
+    "lat": 31.5204,
+    "lng": 74.3587
+  },
+  {
+    "name": "Party Spark",
+    "type": "Birthday",
+    "city": "Karachi",
+    "address": "45 Clifton Block 2, Karachi",
+    "phone": "+92 300 2222222",
+    "rating": 4,
+    "lat": 24.8607,
+    "lng": 67.0011
+  },
+  {
+    "name": "Floral Dreams",
+    "type": "Mehndi",
+    "city": "Islamabad",
+    "address": "G-11 Markaz, Islamabad",
+    "phone": "+92 300 3333333",
+    "rating": 3,
+    "lat": 33.6844,
+    "lng": 73.0479
+  },
+  {
+    "name": "Eventia Planners",
+    "type": "Wedding",
+    "city": "Karachi",
+    "address": "Main Tariq Road, Karachi",
+    "phone": "+92 301 4444444",
+    "rating": 4,
+    "lat": 24.8700,
+    "lng": 67.0500
+  },
+  {
+    "name": "Birthday Buzz",
+    "type": "Birthday",
+    "city": "Lahore",
+    "address": "Johar Town Block F, Lahore",
+    "phone": "+92 302 5555555",
+    "rating": 5,
+    "lat": 31.4800,
+    "lng": 74.3000
+  },
+  {
+    "name": "MARCEM Events Pvt. LTD",
+    "type": "Full-Service Events",
+    "city": "Karachi",
+    "address": "Office 1A, 15/C, 4th Zamzama Lane, Phase V, Zamzama Commercial Area, DHA, Karachi 75600",
+    "phone": "+92 21 35301807; +92 300 8280182",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Nizam Event Management",
+    "type": "Full-Service Events",
+    "city": "Karachi",
+    "address": "43C, Shahbaz Commercial Lane 4, Phase 6, DHA, Karachi",
+    "phone": "+92 21 35240361; +92 311 1172700",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "A2Z Events Solutions",
+    "type": "Full-Service Events",
+    "city": "Lahore",
+    "address": "Office # 428, 4th Floor, Siddique Trade Center, Main Boulevard, Gulberg, Lahore",
+    "phone": "+92 300 7770380; +92 42 35710285",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Event Planner Lahore",
+    "type": "Full-Service Events",
+    "city": "Lahore",
+    "address": null,
+    "phone": "+92 300 5556071",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Belissa Events",
+    "type": "Full-Service Events",
+    "city": "Lahore",
+    "address": "Lawrence Road, Lahore",
+    "phone": "+92 308 8004808",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Events Head",
+    "type": "Full-Service Events",
+    "city": "Lahore",
+    "address": "C1, Chenab Block, Allama Iqbal Town, Lahore",
+    "phone": "+92 306 0492292",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Osman Jamil Events (OJ Events)",
+    "type": "Wedding",
+    "city": "Lahore",
+    "address": "Building 48, 2nd Floor, Raya Fairways, DHA Phase 6, Lahore",
+    "phone": "+92 332 4512741",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Prime Event Management",
+    "type": "Full-Service Events",
+    "city": "Lahore",
+    "address": "19-N, Model Town Extension, Lahore",
+    "phone": "+92 305 2224878",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Welcome Events & Destinations",
+    "type": "Corporate / Full-Service Events",
+    "city": "Karachi",
+    "address": "D-16, Block-3, Scheme-V, Clifton, Karachi",
+    "phone": "+92 21 35865526; +92 21 35865527",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "DAWAT Pakistan (Decor, Catering & Events)",
+    "type": "Catering & Events",
+    "city": "Karachi",
+    "address": "G-22, Ocean Mall, Karachi; also 14C, Lane 9, Kh-e-Bukhari, 3rd Floor, Karachi",
+    "phone": "+92 321 7888061; +92 335 7888062",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "VMP Event Management",
+    "type": "Decor & Events",
+    "city": "Karachi",
+    "address": "31-D, Stadium Lane 4, Kh-e-Shamsheer, Phase V, DHA, Karachi",
+    "phone": "+92 331 8200123",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "The Creatorz Events",
+    "type": "Wedding & Events",
+    "city": "Karachi",
+    "address": "12/C, Suite #2, Main South Park Avenue, DHA Phase II Extension, Karachi",
+    "phone": "+92 300 9211292",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Evento Pakistan",
+    "type": "Full-Service Events",
+    "city": "Karachi",
+    "address": null,
+    "phone": "+92 311 8888121",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "La Eventica",
+    "type": "Full-Service Events",
+    "city": "Karachi",
+    "address": "A-41, Sector 15 A/5, Bufferzone, Karachi",
+    "phone": "+92 334 2660741; +92 332 3324450",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Karachi Event Planner",
+    "type": "Birthdays / Weddings",
+    "city": "Karachi",
+    "address": null,
+    "phone": "+92 331 2705971",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Riwayat Event Designers & Caterers",
+    "type": "Events & Catering",
+    "city": "Karachi",
+    "address": null,
+    "phone": "+92 316 7492928; +92 331 3663700",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Hanif Rajput / Euphoria by HR",
+    "type": "Catering & Event Design",
+    "city": "Islamabad",
+    "address": "Office #1, Allah Dad Plaza, Block 19, G-8 Markaz, Islamabad",
+    "phone": "+92 317 7770986; +92 322 5003484; +92 322 5001120; +92 322 5003471",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Falcon Event Planners",
+    "type": "Full-Service Events",
+    "city": "Islamabad",
+    "address": "1st Floor, Royal Centre, Blue Area, G-7/2, Islamabad",
+    "phone": "+92 336 5824120",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "Eventions Event Planners",
+    "type": "Full-Service Events",
+    "city": "Islamabad / Rawalpindi",
+    "address": "Office 967-J, Bahria Town Phase 8, Rawalpindi/Islamabad",
+    "phone": "+92 342 5557279",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "House of Shazia Cheema (HSC)",
+    "type": "Event Planning & Coordination",
+    "city": "Islamabad / Lahore / Karachi",
+    "address": "Islamabad G-6/4; DHA Phase 8 Karachi; (Lahore Cantt, Tufail Road)",
+    "phone": "+92 308 6666373",
+    "rating": null,
+    "lat": null,
+    "lng": null
+  }
+]
